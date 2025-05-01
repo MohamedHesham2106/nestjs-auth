@@ -62,7 +62,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MohamedHesham2106/nestjs-auth
    cd lab2
    ```
 2. Install dependencies:
